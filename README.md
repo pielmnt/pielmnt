@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Pierre
 
-<!--
-**pielmnt/pielmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Developer** · Web & Mobile · Ruby on Rails · Node.js · Flutter
 
-Here are some ideas to get you started:
+I'm a developer with 7 years of experience building and maintaining professional applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on **web applications, APIs, mobile apps and business software**, with a particular interest in backend development and software architecture.
+
+## 🛠️ Technologies
+
+**Backend**
+Ruby on Rails · Node.js · REST APIs · PHP · C# · SQL
+
+**Frontend & Mobile**
+Flutter · Dart · HTML · CSS · JavaScript
+
+**Desktop**
+Objective-C · macOS
+
+**Tools & Environment**
+Git · GitHub · Docker · Redis · Sentry · Grafana
+
+## 🚀 Projects
+
+I'm currently rebuilding my GitHub with small projects focused on learning, experimentation and showcasing my technical skills.
+
+### 🔌 API Projects
+
+Small backend projects exploring REST APIs, authentication, asynchronous processing and application architecture.
+
+**Node.js · REST API · SQL**
+
+## 🎯 Currently learning
+
+* Backend architecture & design patterns
+* Node.js / NestJS
+* Asynchronous processing, queues & workers
+* Modern API design
+* Improving my Flutter skills
+
+## 📫 Contact
+
+📍 France
+
+Feel free to explore my repositories and get in touch.
