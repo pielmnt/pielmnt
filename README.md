@@ -24,12 +24,6 @@ Git · GitHub · Docker · Redis · Sentry · Grafana
 
 I'm currently rebuilding my GitHub with small projects focused on learning, experimentation and showcasing my technical skills.
 
-### 🔌 API Projects
-
-Small backend projects exploring REST APIs, authentication, asynchronous processing and application architecture.
-
-**Node.js · REST API · SQL**
-
 ## 🎯 Currently learning
 
 * Backend architecture & design patterns
