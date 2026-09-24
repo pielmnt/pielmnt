@@ -38,8 +38,3 @@ Small backend projects exploring REST APIs, authentication, asynchronous process
 * Modern API design
 * Improving my Flutter skills
 
-## 📫 Contact
-
-📍 France
-
-Feel free to explore my repositories and get in touch.
